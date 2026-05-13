@@ -1,6 +1,6 @@
-# HeartSync
+# HeartSync Preview
 
-**HeartSync explores measured calm: tactile breathing rhythms, body-aware feedback, and simple sessions for noticing and shaping your state.**
+**HeartSync is a privacy-first, measured-calm experiment: tactile breathing rhythms, body-aware feedback, and simple sessions for measuring and shaping your state.**
 
 This public repo is a deliberately limited technical preview. It contains the safe foundation: breathing timing, haptic pattern specifications, session state, and privacy guardrails. More advanced closed-loop physiological feedback work is intentionally not included here.
 
